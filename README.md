@@ -9,7 +9,7 @@
 - 📫 You can **contact** me through these socials IDs 😁👇🏻
 
 [![Linkedin Badge](https://img.shields.io/badge/-farhancdr-blue?style=flat&logo=Linkedin&logoColor=white&link=https://www.linkedin.com/in/farhancdr/)](https://www.linkedin.com/in/farhancdr/)
-[![Website Badge](https://img.shields.io/badge/-farhancdr.github.io-47CCCC?style=flat&logo=Google-Chrome&logoColor=white&link=https://farhancdr.github.io)](farhancdr.github.io)
+[![Website Badge](https://img.shields.io/badge/-farhancdr.com-47CCCC?style=flat&logo=Google-Chrome&logoColor=white&link=https://farhancdr.github.io)](farhancdr)
 [![Twitter Badge](https://img.shields.io/badge/-@farhancdr-1ca0f1?style=flat&labelColor=1ca0f1&logo=twitter&logoColor=white&link=https://twitter.com/farhancdr)](https://twitter.com/farhancdr)
 [![Instagram Badge](https://img.shields.io/badge/-@farhancdr-purple?style=flat&logo=instagram&logoColor=white&link=https://instagram.com/farhancdr/)](https://instagram.com/farhancdr)
 [![Gmail Badge](https://img.shields.io/badge/-farhancdr-c14438?style=flat&logo=Gmail&logoColor=white&link=mailto:farhancdr@gmail.com)](mailto:farhancdr@gmail.com)
