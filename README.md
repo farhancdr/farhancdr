@@ -48,6 +48,9 @@ Languages and Tools🛠:
 <a href="https://github.com/farhancdr/shoppingList">
   <img align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=farhancdr&repo=shoppingList&theme=tokyonight" />
 </a>
+<a href="https://github.com/farhancdr/Todo-Task">
+  <img align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=farhancdr&repo=Todo-Task&theme=tokyonight" />
+</a>
 
 <br/>
 ---
