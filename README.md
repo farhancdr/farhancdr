@@ -46,7 +46,7 @@ Languages and Tools🛠:
 </a>
   
 <a href="https://github.com/farhancdr/shoppingList">
-  <img align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=farhancdr&repo=react-admin-dashboard&theme=tokyonight" />
+  <img align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=farhancdr&repo=shoppingList&theme=tokyonight" />
 </a>
 
 <br/>
