@@ -41,13 +41,12 @@ Languages and Tools🛠:
 
 ---
 ### My Projects ✨:
-  
-<a href="https://github.com/farhancdr/react-admin-dashboardr">
-  <img align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=farhancdr&repo=react-admin-dashboard&theme=tokyonight" />
-</a>
-
 <a href="https://github.com/farhancdr/django-sales-management-system">
  <img align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=farhancdr&repo=django-sales-management-system&theme=tokyonight" />
+</a>
+  
+<a href="https://github.com/farhancdr/shoppingList">
+  <img align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=farhancdr&repo=react-admin-dashboard&theme=tokyonight" />
 </a>
 
 <br/>
