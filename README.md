@@ -33,10 +33,8 @@
 
 - 👯 I’m looking to collaborate on **Open Source Projects.**
 
-- 👨‍💻 All of my projects are available at [https://github.com/farhancdr](https://github.com/farhancdr)
-
-- 📫 How to reach me **farhancdr@gmail.com**
-- 
+- 📫 Reach me >> **farhancdr@gmail.com**
+  
 <br>
 
 
@@ -57,6 +55,12 @@
 </a>
 </p>
 <br/>
+
+<div align = "center">
+  <img align="center" src= "https://github-profile-trophy.vercel.app/?username=farhancdr&theme=dracula&rank=S,AAA,AA,B,C,A&margin-w=10" />
+</div>
+<br/>
+
 
 <!--END_SECTION_LANGUAGE:readme-info-->
 
